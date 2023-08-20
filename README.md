@@ -8,7 +8,7 @@ src="https://img.shields.io/github/followers/Fequme?logo=github&style=for-the-ba
 ### Skills
 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+[ICON](https://www.oracle.com/java/) ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
 </p>
 
 ### Socials
